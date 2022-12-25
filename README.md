@@ -31,6 +31,6 @@
 | --- | --- |
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라 | [jinan159](https://github.com/jinan159) |
 | 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 | [JoisFe](https://github.com/JoisFe) |
-| 아이템 12. toString을 항상 재정의하라 | [Corock](https://github.com/corock) | 
+| 아이템 12. toString을 항상 재정의하라 | [corock](https://github.com/corock) | 
 | 아이템 13. clone재정의는 주의해서 진행하라 | [gonami-gennnmja](https://github.com/gonami-gennnmja) |
 | 아이템 14. Comparable을 구현할지 고려하라 | [chikeem90](https://github.com/chikeem90) |
