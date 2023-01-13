@@ -44,3 +44,20 @@
 | 아이템 18. 상속보다는 컴포지션을 사용하라 | [corock](https://github.com/corock) | 
 | 아이템 19. 상속을 고려해 설계하고 문서화하라, 그러지 않았다면 상속을 금지하라 | [chikeem90](https://github.com/chikeem90) |
 | 아이템 20. 추상 클래스보다는 인터페이스를 우선하라 | [coalong](https://github.com/coalong) |
+| 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라  | [chikeem90](https://github.com/chikeem90) |
+| 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라 | [coalong](https://github.com/coalong) |
+| 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라 | [jinan159](https://github.com/jinan159) |
+| 아이템 24. 멤버 클래스는 되도록 static으로 만들라 | [ding_cook](https://github.com/bunsung92) |
+| 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 | [Dante](https://github.com/YuDeokRin) |
+
+## 5장. 제네릭
+
+| 아이템 | 담당자 |
+| --- | --- |
+| 아이템 26. 로 타입은 사용하지 말라 | [JoisFe](https://github.com/JoisFe) |
+| 아이템 27. 비검사 경고를 제거하라 | [CoRock](https://github.com/corock) |
+| 아이템 28. 배열보다는 리스트를 사용하라  | [ding_cook](https://github.com/bunsung92) |
+| 아이템 29. 이왕이면 제네릭 타입으로 만들라 | [CoRock](https://github.com/corock) |
+| 아이템 30. 이왕이면 제네릭 메서드로 만들라 | [coalong](https://github.com/coalong) |
+| 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높이라 | [JoisFe](https://github.com/JoisFe) |
+| 아이템 32. 제네릭과 가변인수를 함께 쓸 떄는 신중하라 | [Dante](https://github.com/YuDeokRin) |
